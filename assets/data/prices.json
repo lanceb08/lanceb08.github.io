@@ -1,0 +1,85 @@
+{
+    "prices" : [
+        {
+            "id" : "1",
+            "package_name" : "PROBATION",
+            "package_price" : "12",
+            "features" : [
+                {
+                    "id" : "1",
+                    "name" : "Fight for Judge Court"
+                },
+                {
+                    "id" :"2",
+                    "name" : "Concept case"
+                },
+                {
+                    "id" : "3",
+                    "name" : "Law Planning"
+                },
+                {
+                    "id" : "4",
+                    "name" : "Legal Advice"
+                },
+                {
+                    "id" : "5",
+                    "name" : "Legal Advice"
+                }
+            ]
+        },
+        {
+            "id" : "2",
+            "package_name" : "TEMPORARY",
+            "package_price" : "12",
+            "features" : [
+                {
+                    "id" : "1",
+                    "name" : "Fight for Judge Court"
+                },
+                {
+                    "id" :"2",
+                    "name" : "Concept case"
+                },
+                {
+                    "id" : "3",
+                    "name" : "Law Planning"
+                },
+                {
+                    "id" : "4",
+                    "name" : "Legal Advice"
+                },
+                {
+                    "id" : "5",
+                    "name" : "Legal Advice"
+                }
+            ]
+        },
+        {
+            "id" : "3",
+            "package_name" : "PARMANENT",
+            "package_price" : "12",
+            "features" : [
+                {
+                    "id" : "1",
+                    "name" : "Fight for Judge Court"
+                },
+                {
+                    "id" :"2",
+                    "name" : "Concept case"
+                },
+                {
+                    "id" : "3",
+                    "name" : "Law Planning"
+                },
+                {
+                    "id" : "4",
+                    "name" : "Legal Advice"
+                },
+                {
+                    "id" : "5",
+                    "name" : "Legal Advice"
+                }
+            ]
+        }
+    ]
+}

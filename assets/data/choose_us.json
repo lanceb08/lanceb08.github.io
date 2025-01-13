@@ -1,0 +1,49 @@
+{
+    "choose_us" : {
+        "feature_image" : "/assets/img/care.png",
+        "reasons" : [
+            {
+                "id" : "1",
+                "title" : "Homecare Association",
+                "image" : "/assets/img/homecare_association.png",
+                "short_description" : "We are an affiliate member of the Homecare Association. The UK Association dedicated to supporting homecare providers.",
+                "link_description" : "Please select the Homecare Association image on the left to view their web site.",
+                "link" : "https://www.homecareassociation.org.uk/"
+            },
+            {
+                "id" : "2",
+                "title" : "Care Quality Commission",
+                "image" : "/assets/img/cqc.png",
+                "short_description" : "We are an accredited member of the CQC. The independent regulator of health and social care in England.",
+                "link_description" : "Please select the CQC image on the left to view our CQC ratings and status.",
+                "link" : "https://www.cqc.org.uk/location/1-948629587"
+            }
+        ],
+        "processes" : [
+            {
+                "id" : "1",
+                "icon" : "/assets/img/icon/law-book.png",
+                "title" : "Study & Research",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id" : "2",
+                "icon" : "/assets/img/icon/contract.png",
+                "title" : "Date Collection",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id" : "3",
+                "icon" : "/assets/img/icon/lawyer-2.png",
+                "title" : "Fight in the Court",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id" : "4",
+                "icon" : "/assets/img/icon/podium-2.png",
+                "title" : "Bring Back the Win",
+                "short_description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "services" : [
+        {
+            "id" : "1",
+            "icon" : "",
+            "name" : "Domiciliary Care",
+            "short_description" : "Domicilary Care is a speciality in which carers provide multidimensional home care to service users of all ages.",
+            "bold_header" : "What does care at home mean? We believe that the answer lies with our customers – who all have individual needs to support their independence and lifestyle.",
+            "paragraphs" : [ 
+                { 
+                    "header" : "",
+                    "paragraph" : 
+                    [ 
+                        "BM Care Management Solutions ltd understand that customers prefer to live in the comfort of their own home, but may", 
+                        " need some help to do so. We listen to these needs and requirements then provide a care service in the comfort of your",
+                        " own home – it’s that simple."
+                    ]
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/DomCare.jpeg"
+            },
+            "bullet_lists" : 
+            [
+                {
+                    "header" : "We provide a range of services, such as:",
+                    "sub_header" : "",
+                    "bullet_points" : 
+                    [
+                        {"content" : "Assistance with a ‘good morning’ start to the day, with help to get up, wash, shower or bath, get dressed and have breakfast."},
+                        {"content" : "Shopping support - alongside our customer or alternatively we can come in, agree a shopping list, go to the shops, come back and put it all away."},
+                        {"content" : "Preparation of food and drink."},
+                        {"content" : "Ensuring a timely prompt for medication when due."},
+                        {"content" : "Undertaking domestic tasks such as cleaning, laundry and ironing either on a regular basis or as a ‘spring clean’, whatever the season."},
+                        {"content" : "Provision of a respite service. If you are performing the role of principal carer, then you may need support during your time off each week."},
+                        {"content" : "Pampering sessions – the occasional visit to organise bathing, clean clothes, fresh bedding and a thoughtfully prepared meal before bedtime."},
+                        {"content" : "At the end of each day, some help with getting ready for bed."},
+                        {"content" : "Provision of care services through the night for those people who need them. This can either be on a ‘sleeper night’ basis, where the care worker expects a reasonable night's sleep but is on hand for emergencies, or a ‘waking night’ where the care worker is on duty throughout the night."},
+                        {"content" : "Live in care – providing a care worker to live with you in your home. This is only a selection of the things we can help you with. If you require other services to suit your needs, please get in touch with us."},
+                        {"content" : "Sit-in where a support staff can spend some hours with you, just to keep you company."}
+                    ]
+                },
+                {
+                    "header" : "Next Steps:",
+                    "sub_header" : "Once you have considered the sort of care you need, contact our office and give us a call. A member of our Care team will be able to discuss your individual requirements in more detail.",
+                    "bullet_points" : [
+                        
+                    ]
+                }
+            ] 
+        },
+
+        {
+            "id" : "2",
+            "icon" : "",
+            "name" : "Respite Care",
+            "short_description" : "Respite care is the provision of short-term, temporary relief to those who are caring for family members.",
+            "bold_header" : "",
+            "paragraphs" : [ 
+                {
+                    "header" : "",
+                    "paragraph" : [
+                        "Respite care is the provision of short-term, temporary relief to those who are caring for family members. BM Care Management Solutions can provide a planned programme of care visits, for a few hours through to a few weeks, for families and those providing unpaid care.",
+                        " A member of our care team will be able to discuss your individual requirements in more detail.",
+                        " Even though many families take great joy in providing care to their loved ones so that they can remain at home, the physical, emotional and financial consequences for the family caregiver can be overwhelming without some support, such as respite.",
+                        " Respite provides the much needed temporary break from the often exhausting challenges faced by the family caregiver, giving the caregiver an opportunity to take a break or holiday, relax and recharge.",
+                        " Respite has been shown to help sustain family caregiver, with health and wellbeing benefits. This is where we can come and provide care to help."
+                    ]
+                },
+                {
+                    "header" : "Next Steps",
+                    "paragraph" : [
+                        "Once you have considered the sort of care you need, you may contact our office."
+                    ]
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/respite.jpg"
+            } 
+        },
+
+        {
+            "id" : "3",
+            "icon" : "",
+            "name" : "Live in Care",
+            "short_description" : "We can arrange care for service users who may need help and support.",
+            "bold_header" : "",
+            "paragraphs" : [ 
+                {
+                    "header" : "",
+                    "paragraph" : [
+                       "We can arrange care for service users who may need help and support."
+                    ]
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/LiveInCare.jpg"
+            },
+            "bullet_lists" : 
+            [
+                {
+                    "header" : "Types of care provided:",
+                    "sub_header" : "",
+                    "bullet_points" : 
+                    [
+                        {"content" : "Older people who need some help with getting up in the morning, or going to bed."},
+                        {"content" : "Couples who would like some assistance for their partner such as keeping on top of household chores."},
+                        {"content" : "People who are physically disabled and who need assistance with the things that their disability prevents them from doing entirely by themselves."},
+                        {"content" : "People who have fairly constant care needs but do not wish to go into residential home frequently choose our Live-in Care Service."},
+                        {"content" : "Sometimes when someone has been discharged from hospital after illness or an operation, they will contact us for short term help until they are feeling fit enough to regain their old lifestyle."},
+                        {"content" : "We provide respite care - a service for people who rely on a relative or friend for most of their care but would like to give that person a break from time to time."},
+                        {"content" : "Many people prefer some time out from home and would like someone to take them out for a couple of hours or for a day's shopping."}
+                    ]
+                }
+            ] 
+        },
+        
+        {
+            "id" : "4",
+            "icon" : "",
+            "name" : "Learning Disabilities Care",
+            "short_description" : "We can arrange care for service users who may need help and support.",
+            "bold_header" : "",
+            "paragraphs" : [ 
+                {
+                    "header" : "Learning disabilities care we provide for people is tailored to each individual’s needs",
+                    "paragraph" : [
+                       "We start by talking not only to our customer but also to any advocates or stakeholders such as family members and healthcare professionals.",
+                       "While our professional experience is paramount, and we advise accordingly, we will always consider the personal wishes of our customer and put those first."
+                    ]
+                },
+                {
+                    "header" : "Flexible Care",
+                    "paragraph" : [
+                       "Our care can be wide ranging and flexible, from personal care through to support in leading an independent life.",
+                       " This can include a trip into town for shopping, meeting friends, or pursuing a favourite sport or hobby.",
+                       " It depends on the client’s requirements and a considered approach to available facilities in the area.",
+                       " We can also offer a live-in care service. Please telephone us to talk about the options which may be available in your area and what we can do to help."
+                    ]
+                },
+                {
+                    "header" : "Specialist Care",
+                    "paragraph" : [
+                       "Our care workers are highly trained, with extensive practical experience across many different areas of learning disability.",
+                       " These include behaviours that challenge, autistic spectrum disorders, complex health needs, physical disabilities and sensory impairment."
+                    ]
+                },
+                {
+                    "header" : "Next Steps",
+                    "paragraph" : [
+                       "Once you have considered the sort of care you need, you may wish to give us a call. A member of our Care team will be able to discuss your individual requirements in more detail."
+                    ]
+                } 
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/LearningDisability.jpeg"
+            },
+            "bullet_lists" : 
+            [
+                {
+                    "header" : "",
+                    "sub_header" : "",
+                    "bullet_points" : 
+                    [
+                    ]
+                }
+            ] 
+        },
+
+        {
+            "id" : "5",
+            "icon" : "",
+            "name" : "Physical Disabilities Care",
+            "short_description" : "People who have Physical Disabilities have the right to a full and active life.",
+            "bold_header" : "",
+            "paragraphs" : [ 
+                {
+                    "header" : "",
+                    "paragraph" : [
+                        "People who have Physical Disabilities have the right to a full and active life and it is our role to make this possible."
+                    ]
+                },
+                {
+                    "header" : "We provide care for those with physical disabilities.",
+                    "paragraph" : [
+                       "BM Care Management Solution provides a professional service which can help maximise independence.",
+                       " We understand that customers have varying needs.",
+                       " Frequently we help with elements of Personal care such as help with getting up, with everyday tasks like cooking or laundry, or washing and showering.",
+                       " However, our service goes further than this. Our ethic is to help people enjoy as full a life as possible. We help people to be independent.",
+                       " If you have a physical disability (or someone living with you has) you may need assistance to enable you to use essential facilities in your home, for instance the bathroom or kitchen.",
+                       " Or you may need help with personal care, or for accessing the community.",
+                       " BM Care Management Solutions ltd can provide you with tailor-made support and assistance, delivered by caring professionals enabling you to live life to its full potential."
+                    ]
+                },
+                {
+                    "header" : "Next Steps",
+                    "paragraph" : [
+                       "Once you have considered the sort of care you need, please give our office a call to arrange an initial visit to chat.",
+                       " A member of the Care Support team will be able to discuss your individual requirements in more detail."
+                    ]
+                }
+            ],
+            "images" : {
+                "banner_image" : "/assets/img/service/LadyInWheelChair.png"
+            },
+            "bullet_lists" : 
+            [
+                {
+                    "header" : "",
+                    "sub_header" : "",
+                    "bullet_points" : 
+                    [
+                    ]
+                }
+            ] 
+        }
+    ]
+}

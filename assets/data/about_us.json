@@ -1,0 +1,22 @@
+{
+    "about_us" : {
+        "admin_name" : "Kathlyn Bennett",
+        "admin_designation" : "Director",
+        "admin_sign" : "/assets/img/sign.png",
+        "features" : [
+            {
+                "id" : "1",
+                "icon" : "/assets/img/icon/home-care-icon.webp",
+                "title" : "We aim to provide excellent Care Services",
+                "short_description" : "Care is not just about support services but the desire to actually care about the clients on a personal level."
+            },
+
+            {
+                "id" : "2",
+                "icon" : "/assets/img/icon/quality.png",
+                "title" : "We strive for best quality in Care.",
+                "short_description" : "Our Standards and our Services are always being appraised."
+            }
+        ]
+    }
+}
